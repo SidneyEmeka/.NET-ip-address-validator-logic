@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\bin\Debug\net8.0\.NET-IP-Adress-Validator.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\bin\Debug\net8.0\.NET-IP-Adress-Validator.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\bin\Debug\net8.0\.NET-IP-Adress-Validator.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\bin\Debug\net8.0\.NET-IP-Adress-Validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\bin\Debug\net8.0\.NET-IP-Adress-Validator.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\refint\.NET-IP-Adress-Validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\.NET-IP-Adress-Validator.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-IP-Adress-Validator\obj\Debug\net8.0\ref\.NET-IP-Adress-Validator.dll
