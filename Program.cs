@@ -13,9 +13,8 @@ foreach (string ip in ipv4Input) //To loop through all the arrays in ipv4Input
     ValidateRange(); //calling the methods used to validate the Range
 
     if (validLength && validZeroes && validRange == true) 
-    {
         Console.WriteLine($"{ip} is a valid IPv4 address");
-    } 
+    
     else 
     {
         Console.WriteLine($"{ip} is an invalid IPv4 address");
