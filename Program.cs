@@ -16,9 +16,7 @@ foreach (string ip in ipv4Input) //To loop through all the arrays in ipv4Input
         Console.WriteLine($"{ip} is a valid IPv4 address");
     
     else 
-    {
         Console.WriteLine($"{ip} is an invalid IPv4 address");
-    }
 }
 
 //Defining the Methods
