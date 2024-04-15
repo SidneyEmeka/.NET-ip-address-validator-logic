@@ -1,5 +1,7 @@
-﻿string[] ipv4Input = {"107.31.1.5", "255.0.0.255", "555..0.555", "255...255"};
+string[] ipv4Input = {"107.31.1.5", "255.0.0.255", "555..0.555", "255...255"};
 string[] address; //An array to store the ip being validated
+
+//bools for conditioning
 bool validLength = false;
 bool validZeroes = false;
 bool validRange = false;
